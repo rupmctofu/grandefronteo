@@ -73,14 +73,16 @@
 
 <style lang="scss">
 	section {
+		position: relative;
+
 		video {
-			position: fixed;
+			position: absolute;
 			right: 0;
 			bottom: 0;
 		}
 
 		.land-left {
-			position: fixed;
+			position: absolute;
 			top: 0;
 			padding: 50px;
 			display: flex;
