@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'TheBoldFont';
+    src: url('TheBoldFont.woff2') format('woff2'),
+        url('TheBoldFont.woff') format('woff'),
+        url('TheBoldFont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

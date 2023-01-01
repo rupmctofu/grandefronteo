@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'Adelle Sans';
+    src: url('AdelleSans.woff2') format('woff2'),
+        url('AdelleSans.woff') format('woff'),
+        url('AdelleSans.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Adelle Sans';
+    src: url('AdelleSans-Thin.woff2') format('woff2'),
+        url('AdelleSans-Thin.woff') format('woff'),
+        url('AdelleSans-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Adelle Sans';
+    src: url('AdelleSans-Bold.woff2') format('woff2'),
+        url('AdelleSans-Bold.woff') format('woff'),
+        url('AdelleSans-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
